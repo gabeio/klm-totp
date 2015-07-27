@@ -14,7 +14,6 @@ M - remembers password
 H - keyboard
 K*9 - types password (assuming 8 average minimum + 1 for shift to cap) (1 lowercase + 1 uppercase + 1 number)
 
-
 H - mouse
 P - submit button
 K - click on button
