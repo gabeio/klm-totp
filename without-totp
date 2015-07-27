@@ -1,5 +1,5 @@
 H - mouse
-P - pointes to username input
+P - username input
 K - clicks on input
 
 M - remembers username
@@ -7,7 +7,7 @@ H - keyboard
 K*7 - types username (assuming average lastname length of 6 + 1st character of first name)
 
 H - mouse
-P - points to password input
+P - password input
 K - clicks on input
 
 M - remembers password
