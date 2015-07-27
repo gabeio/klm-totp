@@ -1,0 +1,30 @@
+H - mouse
+P - username input
+K - clicks on input
+
+M - remembers username
+H - keyboard
+K*7 - types username (assuming average lastname length of 6 + 1st character of first name)
+
+H - mouse
+P - password input
+K - clicks on input
+
+M - remembers password
+H - keyboard
+K*9 - types password (assuming 8 average minimum + 1 for shift to cap) (1 lowercase + 1 uppercase + 1 number)
+
+H - mouse
+P - totp input
+K - clicks on input
+
+H - phone
+K*5-9 - get to totp app & display of totp
+M - remember totp
+
+H - keyboard
+K*6 - type totp (6 is industry standard 7-8 for added security)
+
+H - mouse
+P - submit button
+K - click on button
